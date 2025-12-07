@@ -2,7 +2,7 @@
 # AWS EC2 Instance Creation Script
 # Description: Creates an EC2 instance with specified parameters
 ##author: Khushi
-#date: 2024-06-15
+#date: 2025-12-7
 #version: 1.0
 #purpose: Automate EC2 instance creation if in command line argument recieves create then create if command line argument includes delete then delete the ec2 instance
 #############################

@@ -1,7 +1,7 @@
 ##log analysis model script
 ##descrription: the scripts creates an machine learning model for log analysis
 #author: khushi jain
-#date: 2024-10-01
+#date: 2025-12-7
 #version: 1.0
 #purpose : to create a ml model using isolation forest algorithm for log analysis which will analyse system_logs file and detect if any anamolies found , it will check for all the info , warning , error or critical logged line
 #############################################
